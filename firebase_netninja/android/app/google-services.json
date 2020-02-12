@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247436406676",
+    "firebase_url": "https://fir-netninja-cca74.firebaseio.com",
+    "project_id": "fir-netninja-cca74",
+    "storage_bucket": "fir-netninja-cca74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247436406676:android:43d49d68ec88152dcf2981",
+        "android_client_info": {
+          "package_name": "oguzkuzu.firebase_netninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247436406676-k1gupfs8sufe4kcetmef28ukpdk9m839.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzu32fQuxbzqIofPUUk5FIwR77qhAIZRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247436406676-k1gupfs8sufe4kcetmef28ukpdk9m839.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
